@@ -1,0 +1,12 @@
+[Git]
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://git-scm.com/book/pt-br/v2
+
+[RVM]
+https://rvm.io/rvm/install
+https://github.com/rvm/ubuntu_rvm
+
+[Ruby]
+https://www.ruby-lang.org/pt/documentation/ruby-from-other-languages/
+https://tecadmin.net/install-ruby-on-rails-on-ubuntu/
+https://linuxize.com/post/how-to-install-ruby-on-ubuntu-20-04/
